@@ -35,9 +35,11 @@ This Flutter app showcases how to create and manage radio buttons and checkboxes
    flutter pub add fluttertoast
    flutter pub get
    ```
-   officail fluttertoast documentation:[fluttertoast](https://pub.dev/packages/fluttertoast)
+   officail [fluttertoast](https://pub.dev/packages/fluttertoast) documentation:
+   ```
    import 'package:fluttertoast/fluttertoast.dart';
-
+   ```
+   
 ### Usage
 
 1. Run the app:
